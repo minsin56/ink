@@ -1,0 +1,35 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\development\\inkeditor\\module.inkeditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\perforce\\games\\fishgame\\intermediate\\build\\win64\\fishgameeditor\\development\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\development\\inkeditor\\definitions.inkeditor.h",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\inc\\inkeditor\\inkeditor.init.gen.cpp",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\inc\\inkeditor\\storyassetfactory.gen.cpp",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\source\\inkeditor\\private\\storyassetfactory.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\editorreimporthandler.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\merge\\public\\merge.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\thumbnailrenderer.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\thumbnailmanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\automatedassetimportdata.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\iassettools.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\source\\ink\\public\\storyasset.h",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\source\\ink\\public\\ink.h",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\inc\\ink\\storyasset.generated.h",
+            "f:\\perforce\\games\\fishgame\\plugins\\ink\\intermediate\\build\\win64\\unrealeditor\\inc\\inkeditor\\storyassetfactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

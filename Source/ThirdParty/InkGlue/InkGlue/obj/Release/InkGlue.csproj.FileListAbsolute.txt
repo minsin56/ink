@@ -1,0 +1,9 @@
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.deps.json
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.dll
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.pdb
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.AssemblyInfoInputs.cache
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.AssemblyInfo.cs
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.csproj.CoreCompileInputs.cache
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.csproj.CopyComplete
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.dll
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Release\InkGlue.pdb

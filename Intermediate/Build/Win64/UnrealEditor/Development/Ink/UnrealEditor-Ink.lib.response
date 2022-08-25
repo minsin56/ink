@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Ink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Perforce\Games\FishGame\Intermediate\Build\Win64\FishGameEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"F:\Perforce\Games\FishGame\Plugins\Ink\Intermediate\Build\Win64\UnrealEditor\Development\Ink\Module.Ink.cpp.obj"
+"F:\Perforce\Games\FishGame\Plugins\Ink\Intermediate\Build\Win64\UnrealEditor\Development\Ink\Module.Ink.gen.cpp.obj"
+"F:\Perforce\Games\FishGame\Plugins\Ink\Intermediate\Build\Win64\UnrealEditor\Development\Ink\Default.rc2.res"
+/OUT:"F:\Perforce\Games\FishGame\Plugins\Ink\Intermediate\Build\Win64\UnrealEditor\Development\Ink\UnrealEditor-Ink.lib"

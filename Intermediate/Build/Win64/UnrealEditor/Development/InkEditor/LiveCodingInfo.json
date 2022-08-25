@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InkEditor.cpp.obj": [
+			"InkEditor.cpp.obj",
+			"StoryAssetFactory.cpp.obj"
+		],
+		"Module.InkEditor.gen.cpp.obj": [
+			"InkEditor.init.gen.cpp.obj",
+			"StoryAssetFactory.gen.cpp.obj"
+		]
+	}
+}

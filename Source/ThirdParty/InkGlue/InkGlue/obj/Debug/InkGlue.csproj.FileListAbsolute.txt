@@ -1,0 +1,13 @@
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.AssemblyInfoInputs.cache
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.AssemblyInfo.cs
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.csproj.CoreCompileInputs.cache
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Ink\ThirdParty\Ink\InkGlue.deps.json
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Ink\ThirdParty\Ink\InkGlue.dll
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Ink\ThirdParty\Ink\InkGlue.pdb
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.csproj.CopyComplete
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.dll
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.pdb
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.deps.json
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.dll
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\ThirdParty\Ink\InkGlue.pdb
+C:\Dev\UnrealInkExample\Plugins\UnrealInk\Source\ThirdParty\InkGlue\InkGlue\obj\Debug\InkGlue.csprojAssemblyReference.cache

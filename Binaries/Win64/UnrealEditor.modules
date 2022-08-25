@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"Ink": "UnrealEditor-Ink.dll",
+		"InkEditor": "UnrealEditor-InkEditor.dll"
+	}
+}

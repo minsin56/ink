@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Ink.cpp.obj": [
+			"Choice.cpp.obj",
+			"Ink.cpp.obj",
+			"InkCompiler.cpp.obj",
+			"InkVar.cpp.obj",
+			"MonoBaseClass.cpp.obj",
+			"Story.cpp.obj",
+			"StoryAsset.cpp.obj",
+			"StoryState.cpp.obj",
+			"VariableState.cpp.obj"
+		],
+		"Module.Ink.gen.cpp.obj": [
+			"Choice.gen.cpp.obj",
+			"Ink.init.gen.cpp.obj",
+			"InkCompiler.gen.cpp.obj",
+			"InkVar.gen.cpp.obj",
+			"MonoBaseClass.gen.cpp.obj",
+			"Story.gen.cpp.obj",
+			"StoryAsset.gen.cpp.obj",
+			"StoryState.gen.cpp.obj",
+			"VariablesState.gen.cpp.obj"
+		]
+	}
+}
